@@ -1,4 +1,3 @@
-
 <!--# 🎓 Hritik Singh Yadav | First Year CSE Student at UPES
 
 Hi! I’m **Hritik**, a first-year **Computer Science Engineering* student with an interest in programming, Linux, and foundational computer science concepts.  
