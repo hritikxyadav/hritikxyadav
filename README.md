@@ -1,6 +1,6 @@
-<!--# 🎓 Hritik Singh Yadav | First Year CSE Student at UPES
+# 🎓 Hritik Singh Yadav | First Year CSE Student at UPES
 
-Hi! I’m **Hritik**, a first-year **Computer Science Engineering* student with an interest in programming, Linux, and foundational computer science concepts.  
+Hi! I’m Hritik, a first-year **Computer Science Engineering* student with an interest in programming, Linux, and foundational computer science concepts.  
 This profile will track my learning journey through college — from coding basics to system-level understanding.
 
 ---
@@ -37,8 +37,8 @@ This profile will track my learning journey through college — from coding basi
 - Master C programming fundamentals  
 - Get comfortable with Linux and the command line  
 - Learn Git, GitHub and version control  
-- Start D          SA basics  
-- B      uild small beginner-friendly projects  
+- Start DSA basics  
+- Build small beginner-friendly projects  
 
 ---
 
@@ -47,16 +47,3 @@ This profile will track my learning journey through college — from coding basi
 - 🔗 LinkedIn: your link here  
 
 ---
-**hritikxyadav/hritikxyadav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
